@@ -1,5 +1,11 @@
 ### Hi there 👋
+<p align="left">
 
+[![Paras's GitHub stats](https://github-readme-stats.vercel.app/api?username=parasguglani1)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parasguglani1&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=parasguglani1"/>    </p>
+  
 <!--
 **parasguglani1/parasguglani1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
